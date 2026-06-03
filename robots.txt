@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://multitechmanutencao.com.br/sitemap.xml
